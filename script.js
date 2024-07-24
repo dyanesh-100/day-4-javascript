@@ -1,6 +1,6 @@
 console.log("Experiment 1");
 
-// Let and Const Variables
+
 let age = 30;
 const name = "Alice";
 
